@@ -1,2 +1,2 @@
 # Color-changer
-just a fun website to which changes background color.
+just a fun website which changes background color.
