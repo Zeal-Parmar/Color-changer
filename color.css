@@ -1,45 +1,79 @@
-html {
-    margin: 0;
-  }
+ html {
+      margin: 0;
+    }
+    h2{
+        color: black;
+    }
+    .nav{
+        background: aqua;
+    }
+    span {
+      display: block;
+      text-align: center;
+      
+    }
+    .canvas {
+      margin: 100px auto 100px;
+      width: 80%;
+      display: inline-block;
+      text-align: center;
+    }
+    .tittle{
+     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     font-size: x-large;
+     color: darkblue;
+     text-align: center;
+background: aqua;
+    }
+    .button {
+      width: 100px;
+      height: 100px;
+      border: solid black 2px;
+      display: inline-block;
+      text-align: center;
+      border-radius: 24px;
+    }
+    
+    #grey {
+      background: grey;
+    }
+    
+    #white {
+      background: white;
+    }
+    #blue {
+      background: blue;
+    }
+    #yellow {
+      background: yellow;
+    }
   
-  span {
-    display: block;
-  }
-  .canvas {
-    margin: 100px auto 100px;
-    width: 80%;
+    #red {
+      background: red;
+    }
+    
+    #lawngreen {
+      background: lawngreen;
+    }
+  
+    #pink {
+      background: lightpink;
+    }
+
+    #midnightblue {
+        background: midnightblue;
+      }
+      
+    #hotpink {
+        background: hotpink;
+      }
+      #maroon {
+        background:maroon;
+      }
+    
+
+
+  h2{
     text-align: center;
-  }
-  
-  .button {
-    width: 100px;
-    height: 100px;
-    border: solid black 2px;
-    display: inline-block;
-  }
-  
-  #grey {
-    background: grey;
-  }
-  
-  #white {
-    background: white;
-  }
-  #blue {
-    background: blue;
-  }
-  #yellow {
-    background: yellow;
-  }
 
-  #red {
-    background: red;
-  }
-  
-  #lawngreen {
-    background: lawngreen;
-  }
-
-  #pink {
-    background: lightpink;
   }

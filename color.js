@@ -27,6 +27,16 @@ buttons.forEach(function (button){
   if(e.target.id === "pink")  {
     body.style.backgroundColor = e.target.id;
   }
+  if(e.target.id === "maroon")  {
+    body.style.backgroundColor = e.target.id;
+  }
+  if(e.target.id === "midnightblue")  {
+    body.style.backgroundColor = e.target.id;
+  }
+  if(e.target.id === "hotpink")  {
+    body.style.backgroundColor = e.target.id;
+  }
+
 
 
 })
